@@ -1,0 +1,20 @@
+Command Prompt On Termux
+$ apt update && apt upgrade -y
+$ apt install git
+$ apt install python
+$ python3 -m pip install requests
+$ git clone http://github.com/pukipli/SpamWa
+$ cd SpamWa
+$ python3 spam.py
+
+Selesai
+
+Jangan Lupa Like Share Comment And Follow Channel Ini
+http://shopee.co.id/infinixnote40bjm
+http://tiktok.com/@shopee.bjm
+http://facebook.com/shopee.bjm
+http://github.com/pukipli
+http://t.me/shopeebjm
+http://t.me/shopee_bjm
+http://instagram.com/shopee_banjarmasin
+http://youtube.com/@shopee_banjarmasin
